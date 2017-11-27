@@ -1,4 +1,4 @@
-package AV;
+package ynkassira_atvargas;
 import java.awt.*;
 import robocode.*;
 import java.awt.Color;
